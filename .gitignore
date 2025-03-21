@@ -1,0 +1,13 @@
+# VSCode specific files
+.vscode/*
+.vs/
+
+# Compiled Static libraries
+*.cache
+*.dSYM
+
+# Executables
+*.exe
+*.out
+*.app
+hashmap/hashmap
